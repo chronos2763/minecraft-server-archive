@@ -1,4 +1,4 @@
 # windswept-archive
-an archive of the previous windswept servers from TimGotYa
+an archive of minecraft servers
 
 please select a branch to continue.
